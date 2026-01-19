@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package week2;
-
 /**
  *
  * @author ryanf
@@ -17,7 +16,7 @@ public class Week2 {
         // TODO code application logic here
         //define and printe 3 strudents information 
         
-        
+        //this is pull remote
         Student[] list = new Student[3]; //peter 1 
         Student s1 = new Student(); //s1 object 
         s1.setName("Peter"); 
