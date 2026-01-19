@@ -40,7 +40,7 @@ public class Week2 {
             System.out.println(list[i].getName() + "" + list[i].getSid());
         }
         
-        
+        //ss
     }
     
 }
